@@ -122,6 +122,7 @@
           },
           "mentioned_in": {
             "type": "array",
+            "description": "Session ids (manifest talk_id) whose transcript mentions this repository.",
             "items": {
               "type": "string"
             }
