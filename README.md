@@ -1,0 +1,2 @@
+# youtube_youtube-transcript_filesystem_fetch_github_1944_curation_7xpf8u
+Learning library content curation workspace
