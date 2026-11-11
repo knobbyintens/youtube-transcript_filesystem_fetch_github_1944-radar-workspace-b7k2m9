@@ -1,50 +1,50 @@
 [
   {
     "video_id": "kqtD5dpn9C8",
-    "status": "pending"
+    "status": "approved"
   },
   {
     "video_id": "PeMlggyqz0Y",
-    "status": "pending"
+    "status": "approved"
   },
   {
     "video_id": "qYNweeDHiyU",
-    "status": "pending"
+    "status": "approved"
   },
   {
     "video_id": "Js05B8Z1ivE",
-    "status": "pending"
+    "status": "approved"
   },
   {
     "video_id": "ZAqIoDhornk",
-    "status": "pending"
+    "status": "approved"
   },
   {
     "video_id": "t8pPdKYpowI",
-    "status": "pending"
+    "status": "needs_review"
   },
   {
     "video_id": "Fa_V9fP2tpU",
-    "status": "pending"
+    "status": "needs_review"
   },
   {
     "video_id": "ko70cExuzZM",
-    "status": "pending"
+    "status": "rejected"
   },
   {
     "video_id": "sppNnsF0gUk",
-    "status": "pending"
+    "status": "rejected"
   },
   {
     "video_id": "X7QmaNpl4P4",
-    "status": "pending"
+    "status": "rejected"
   },
   {
     "video_id": "ex1YT5C5Fvw",
-    "status": "pending"
+    "status": "rejected"
   },
   {
     "video_id": "4xrOmCfA7do",
-    "status": "pending"
+    "status": "rejected"
   }
 ]
