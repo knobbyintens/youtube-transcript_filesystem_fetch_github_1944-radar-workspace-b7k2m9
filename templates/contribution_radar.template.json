@@ -1,0 +1,133 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Contribution Radar Report",
+  "type": "object",
+  "required": [
+    "event",
+    "generated_at",
+    "summary",
+    "entries"
+  ],
+  "properties": {
+    "event": {
+      "type": "string"
+    },
+    "generated_at": {
+      "type": "string",
+      "format": "date-time"
+    },
+    "summary": {
+      "type": "object",
+      "required": [
+        "total_candidates",
+        "eligible",
+        "priority",
+        "standard",
+        "excluded"
+      ],
+      "properties": {
+        "total_candidates": {
+          "type": "integer"
+        },
+        "eligible": {
+          "type": "integer"
+        },
+        "priority": {
+          "type": "integer"
+        },
+        "standard": {
+          "type": "integer"
+        },
+        "excluded": {
+          "type": "integer"
+        }
+      }
+    },
+    "entries": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": [
+          "repo",
+          "category",
+          "status",
+          "exclusion_reason",
+          "stars",
+          "language",
+          "license",
+          "archived",
+          "good_first_issues",
+          "median_first_response_days",
+          "mentioned_in"
+        ],
+        "properties": {
+          "repo": {
+            "type": "string",
+            "description": "owner/name"
+          },
+          "category": {
+            "type": "string"
+          },
+          "status": {
+            "type": "string",
+            "enum": [
+              "priority",
+              "standard",
+              "excluded"
+            ]
+          },
+          "exclusion_reason": {
+            "type": [
+              "string",
+              "null"
+            ],
+            "enum": [
+              "archived",
+              "license",
+              "no-evidence",
+              "policy",
+              "inactive",
+              null
+            ]
+          },
+          "stars": {
+            "type": [
+              "integer",
+              "null"
+            ]
+          },
+          "language": {
+            "type": [
+              "string",
+              "null"
+            ]
+          },
+          "license": {
+            "type": [
+              "string",
+              "null"
+            ]
+          },
+          "archived": {
+            "type": [
+              "boolean",
+              "null"
+            ]
+          },
+          "good_first_issues": {
+            "type": "integer"
+          },
+          "median_first_response_days": {
+            "type": "integer"
+          },
+          "mentioned_in": {
+            "type": "array",
+            "items": {
+              "type": "string"
+            }
+          }
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,98 @@
+{
+  "event": "Nimbus AI Summit 2026",
+  "owner_team": "DevRel Media Ops",
+  "synced_at": "2026-11-11T11:30:00Z",
+  "transcript_format": "markdown",
+  "talks": [
+    {
+      "talk_id": "talk-101",
+      "title": "Agents That Ship: From Terminal to Production",
+      "speaker": "Dr. Maya Chen, Platform Engineering",
+      "track": "agents",
+      "recorded_on": "2026-10-14",
+      "video_url": "https://www.youtube.com/watch?v=summit26-agent-ship",
+      "transcript_path": "transcripts/talk-101.md"
+    },
+    {
+      "talk_id": "talk-102",
+      "title": "Running Frontier Models on a Laptop",
+      "speaker": "Tomás Ferreira, Local Inference Lab",
+      "track": "inference",
+      "recorded_on": "2026-10-14",
+      "video_url": "https://www.youtube.com/watch?v=summit26-laptop-inference",
+      "transcript_path": "transcripts/talk-102.md"
+    },
+    {
+      "talk_id": "talk-103",
+      "title": "Composable Agent Stacks in Production",
+      "speaker": "Priya Raghavan, Applied AI",
+      "track": "agents",
+      "recorded_on": "2026-10-15",
+      "video_url": "https://www.youtube.com/watch?v=summit26-agent-stacks",
+      "transcript_path": "transcripts/talk-103.md"
+    },
+    {
+      "talk_id": "talk-104",
+      "title": "The Efficient Inference Stack",
+      "speaker": "Jonas Weber, Performance Engineering",
+      "track": "inference",
+      "recorded_on": "2026-10-15",
+      "video_url": "https://www.youtube.com/watch?v=summit26-efficient-inference",
+      "transcript_path": "transcripts/talk-104.md"
+    },
+    {
+      "talk_id": "talk-105",
+      "title": "Pair Programming with AI: What Actually Works",
+      "speaker": "Sara Okafor, Developer Experience",
+      "track": "developer-tools",
+      "recorded_on": "2026-10-15",
+      "video_url": "https://www.youtube.com/watch?v=summit26-pair-programming",
+      "transcript_path": "transcripts/talk-105.md"
+    },
+    {
+      "talk_id": "talk-106",
+      "title": "Model Hub Operations at Scale",
+      "speaker": "Ivan Petrov, ML Infrastructure",
+      "track": "ml-infra",
+      "recorded_on": "2026-10-16",
+      "video_url": "https://www.youtube.com/watch?v=summit26-model-hub-ops",
+      "transcript_path": "transcripts/talk-106.md"
+    },
+    {
+      "talk_id": "talk-107",
+      "title": "Multi-Agent Orchestration: Patterns and Pitfalls",
+      "speaker": "Dr. Lena Hoffmann, Research Engineering",
+      "track": "agents",
+      "recorded_on": "2026-10-16",
+      "video_url": "https://www.youtube.com/watch?v=summit26-multi-agent",
+      "transcript_path": "transcripts/talk-107.md"
+    },
+    {
+      "talk_id": "talk-108",
+      "title": "Coding Agents in the Enterprise",
+      "speaker": "Kenji Watanabe, Security Engineering",
+      "track": "developer-tools",
+      "recorded_on": "2026-10-16",
+      "video_url": "https://www.youtube.com/watch?v=summit26-enterprise-agents",
+      "transcript_path": "transcripts/talk-108.md"
+    },
+    {
+      "talk_id": "talk-109",
+      "title": "Lessons from the Transformer Wars",
+      "speaker": "Prof. Amelia Grant, Applied Research",
+      "track": "research",
+      "recorded_on": "2026-10-17",
+      "video_url": "https://www.youtube.com/watch?v=summit26-transformer-wars",
+      "transcript_path": "transcripts/talk-109.md"
+    },
+    {
+      "talk_id": "talk-110",
+      "title": "Startup Spotlight and Closing Notes",
+      "speaker": "Marcus Reed, Ecosystem",
+      "track": "keynote",
+      "recorded_on": "2026-10-17",
+      "video_url": "https://www.youtube.com/watch?v=summit26-closing",
+      "transcript_path": "transcripts/talk-110.md"
+    }
+  ]
+}

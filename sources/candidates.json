@@ -1,0 +1,127 @@
+{
+  "quarter": "2026-Q4",
+  "prepared_by": "DevRel Ecosystem Ops",
+  "updated_at": "2026-11-11T11:30:00Z",
+  "candidates": [
+    {
+      "candidate_id": "cand-01",
+      "repo": "ollama/ollama",
+      "category": "inference-runtime",
+      "nominating_talk_id": "talk-102",
+      "good_first_issues": 12,
+      "median_first_response_days": 3,
+      "accepting_external_prs": true,
+      "tracker_note": "Maintainers replied within days and pointed us at the good-first-issue queue."
+    },
+    {
+      "candidate_id": "cand-02",
+      "repo": "vllm-project/vllm",
+      "category": "inference-runtime",
+      "nominating_talk_id": "talk-103",
+      "good_first_issues": 8,
+      "median_first_response_days": 6,
+      "accepting_external_prs": true,
+      "tracker_note": "Very active review rotation; they explicitly welcome performance patches."
+    },
+    {
+      "candidate_id": "cand-03",
+      "repo": "crewAIInc/crewAI",
+      "category": "agent-framework",
+      "nominating_talk_id": "talk-103",
+      "good_first_issues": 2,
+      "median_first_response_days": 4,
+      "accepting_external_prs": true,
+      "tracker_note": "Friendly to outside PRs, but the good-first-issue queue is thin this quarter."
+    },
+    {
+      "candidate_id": "cand-04",
+      "repo": "ggml-org/llama.cpp",
+      "category": "inference-runtime",
+      "nominating_talk_id": "talk-104",
+      "good_first_issues": 7,
+      "median_first_response_days": 10,
+      "accepting_external_prs": true,
+      "tracker_note": "Accepts patches but review is slow because of the hardware matrix."
+    },
+    {
+      "candidate_id": "cand-05",
+      "repo": "Aider-AI/aider",
+      "category": "developer-tools",
+      "nominating_talk_id": "talk-105",
+      "good_first_issues": 10,
+      "median_first_response_days": 2,
+      "accepting_external_prs": true,
+      "tracker_note": "Historically extremely responsive to community patches."
+    },
+    {
+      "candidate_id": "cand-06",
+      "repo": "huggingface/transformers",
+      "category": "ml-library",
+      "nominating_talk_id": "talk-106",
+      "good_first_issues": 9,
+      "median_first_response_days": 6,
+      "accepting_external_prs": false,
+      "tracker_note": "Maintainers asked us to hold outside PRs until the v5 migration lands."
+    },
+    {
+      "candidate_id": "cand-07",
+      "repo": "microsoft/autogen",
+      "category": "agent-framework",
+      "nominating_talk_id": "talk-107",
+      "good_first_issues": 4,
+      "median_first_response_days": 5,
+      "accepting_external_prs": true,
+      "tracker_note": "Open to contributions in principle; licence needs a legal review."
+    },
+    {
+      "candidate_id": "cand-08",
+      "repo": "anthropics/claude-code",
+      "category": "developer-tools",
+      "nominating_talk_id": "talk-108",
+      "good_first_issues": 20,
+      "median_first_response_days": 2,
+      "accepting_external_prs": true,
+      "tracker_note": "Huge community signal; contribution terms are not published in the repo."
+    },
+    {
+      "candidate_id": "cand-09",
+      "repo": "tensorflow/models",
+      "category": "research",
+      "nominating_talk_id": "talk-109",
+      "good_first_issues": 9,
+      "median_first_response_days": 6,
+      "accepting_external_prs": true,
+      "tracker_note": "Research code with a mixed licensing story across subdirectories."
+    },
+    {
+      "candidate_id": "cand-10",
+      "repo": "openai/gym",
+      "category": "research",
+      "nominating_talk_id": "talk-109",
+      "good_first_issues": 0,
+      "median_first_response_days": 21,
+      "accepting_external_prs": true,
+      "tracker_note": "Referenced as the historical benchmark API in the research keynote."
+    },
+    {
+      "candidate_id": "cand-11",
+      "repo": "facebookarchive/caffe2",
+      "category": "research",
+      "nominating_talk_id": "talk-110",
+      "good_first_issues": 0,
+      "median_first_response_days": 30,
+      "accepting_external_prs": true,
+      "tracker_note": "Legacy framework that the speaker used as a cautionary tale."
+    },
+    {
+      "candidate_id": "cand-12",
+      "repo": "langchain-ai/langchain",
+      "category": "agent-framework",
+      "nominating_talk_id": "talk-999",
+      "good_first_issues": 6,
+      "median_first_response_days": 9,
+      "accepting_external_prs": true,
+      "tracker_note": "Popular integration layer; nominated internally but no session evidence yet."
+    }
+  ]
+}
