@@ -1,0 +1,22 @@
+[
+  {
+    "video_id": "ko70cExuzZM",
+    "reason": "category_out_of_scope"
+  },
+  {
+    "video_id": "sppNnsF0gUk",
+    "reason": "category_out_of_scope"
+  },
+  {
+    "video_id": "X7QmaNpl4P4",
+    "reason": "too_short"
+  },
+  {
+    "video_id": "ex1YT5C5Fvw",
+    "reason": "blocked_keyword"
+  },
+  {
+    "video_id": "4xrOmCfA7do",
+    "reason": "too_short"
+  }
+]
