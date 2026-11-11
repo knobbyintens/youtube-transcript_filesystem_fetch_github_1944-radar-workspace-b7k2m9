@@ -1,0 +1,134 @@
+[
+  {
+    "video_id": "kqtD5dpn9C8",
+    "title": "Python for Beginners - Learn Coding with Python in 1 Hour",
+    "channel_id": "UCWv7vMbMWH4-V0ZXdmDpPBA",
+    "category_id": "27",
+    "duration_seconds": 3606,
+    "format": "deep_dive",
+    "status": "approved",
+    "priority": "high",
+    "reason": "ok"
+  },
+  {
+    "video_id": "PeMlggyqz0Y",
+    "title": "Machine Learning Explained in 100 Seconds",
+    "channel_id": "UCsBjURrPoezykLs9EqgamOA",
+    "category_id": "28",
+    "duration_seconds": 155,
+    "format": "quick_tip",
+    "status": "approved",
+    "priority": "high",
+    "reason": "ok"
+  },
+  {
+    "video_id": "qYNweeDHiyU",
+    "title": "AI, Machine Learning, Deep Learning and Generative AI Explained",
+    "channel_id": "UCKWaEZ-_VweaEx1j62do_vQ",
+    "category_id": "27",
+    "duration_seconds": 601,
+    "format": "standard",
+    "status": "approved",
+    "priority": "high",
+    "reason": "ok"
+  },
+  {
+    "video_id": "Js05B8Z1ivE",
+    "title": "Python Tutorial for Beginners - Learn the basics in 20 Min",
+    "channel_id": "UC4JX40jDee_tINbkjycV4Sg",
+    "category_id": "27",
+    "duration_seconds": 1179,
+    "format": "standard",
+    "status": "approved",
+    "priority": "normal",
+    "reason": "ok"
+  },
+  {
+    "video_id": "ZAqIoDhornk",
+    "title": "ALL OF PHYSICS explained in 14 Minutes",
+    "channel_id": "UC8VhAX-voAUegprM4SpHQJQ",
+    "category_id": "27",
+    "duration_seconds": 860,
+    "format": "standard",
+    "status": "approved",
+    "priority": "normal",
+    "reason": "ok"
+  },
+  {
+    "video_id": "t8pPdKYpowI",
+    "title": "Python Tutorial for Beginners - Learn Python in 5 Hours [FULL COURSE]",
+    "channel_id": "UCdngmbVKX1Tgre699-XLlUA",
+    "category_id": "27",
+    "duration_seconds": 19890,
+    "format": "deep_dive",
+    "status": "needs_review",
+    "priority": "none",
+    "reason": "long_form_unverified_channel"
+  },
+  {
+    "video_id": "Fa_V9fP2tpU",
+    "title": "All Machine Learning Concepts Explained in 22 Minutes",
+    "channel_id": "UCktMIWomeuj4pwvBb-OBwMw",
+    "category_id": "27",
+    "duration_seconds": 1342,
+    "format": "deep_dive",
+    "status": "needs_review",
+    "priority": "none",
+    "reason": "long_form_unverified_channel"
+  },
+  {
+    "video_id": "ko70cExuzZM",
+    "title": "Taylor Swift - The Fate of Ophelia (Official Music Video)",
+    "channel_id": "UCqECaJ8Gagnn7YCbPEzWH6g",
+    "category_id": "10",
+    "duration_seconds": 239,
+    "format": null,
+    "status": "rejected",
+    "priority": "none",
+    "reason": "category_out_of_scope"
+  },
+  {
+    "video_id": "sppNnsF0gUk",
+    "title": "You Can’t Stop Laughing At These Cats 😂 TOP Funny Cats Video 2025",
+    "channel_id": "UCW_X3-IRNdOl9vrZ-zGthlQ",
+    "category_id": "15",
+    "duration_seconds": 1780,
+    "format": null,
+    "status": "rejected",
+    "priority": "none",
+    "reason": "category_out_of_scope"
+  },
+  {
+    "video_id": "X7QmaNpl4P4",
+    "title": "#1 Productivity Hack",
+    "channel_id": "UCUyDOdBWhC1MCxEjC46d-zw",
+    "category_id": "27",
+    "duration_seconds": 12,
+    "format": null,
+    "status": "rejected",
+    "priority": "none",
+    "reason": "too_short"
+  },
+  {
+    "video_id": "ex1YT5C5Fvw",
+    "title": "How to Be So Productive It Feels ILLEGAL (No Motivation Needed)",
+    "channel_id": "UCFRUDZUCGDlZGeGfftBovXw",
+    "category_id": "27",
+    "duration_seconds": 328,
+    "format": null,
+    "status": "rejected",
+    "priority": "none",
+    "reason": "blocked_keyword"
+  },
+  {
+    "video_id": "4xrOmCfA7do",
+    "title": "Here's what a double cosmic explosion might look like | Science News",
+    "channel_id": "UCBX5er6E37_yWB3gCM32p3g",
+    "category_id": "28",
+    "duration_seconds": 36,
+    "format": null,
+    "status": "rejected",
+    "priority": "none",
+    "reason": "too_short"
+  }
+]
