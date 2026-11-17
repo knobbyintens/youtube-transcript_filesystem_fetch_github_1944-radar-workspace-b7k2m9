@@ -6,13 +6,13 @@
 
 ## Priority
 
-- **vllm-project/vllm** — inference-runtime. 97,069 stars, Python, Apache-2.0. 14 open good-first issues and a median first-response time of 6 days, which clears the priority bar (at least 5 open good-first issues and 7 days or less). Mentioned in talk-103.
-- **crewAIInc/crewAI** — agent-framework. 61,005 stars, Python, MIT. 10 open good-first issues and a median first-response time of 4 days, which clears the priority bar. Mentioned in talk-103.
+- **vllm-project/vllm** — inference-runtime. 97069 stars, Python, Apache-2.0. 14 open good-first issues and a median first-response time of 6 days, which clears the priority bar (at least 5 open good-first issues and 7 days or less). Mentioned in talk-103.
+- **crewAIInc/crewAI** — agent-framework. 61005 stars, Python, MIT. 10 open good-first issues and a median first-response time of 4 days, which clears the priority bar. Mentioned in talk-103.
 
 ## Watchlist
 
-- **ollama/ollama** — inference-runtime. 187,293 stars, Go, MIT. Eligible, but below the priority bar: 3 open good-first issues (fewer than 5) with a median first-response time of 3 days. Mentioned in talk-102.
-- **ggml-org/llama.cpp** — inference-runtime. 135,390 stars, C++, MIT. Eligible, but below the priority bar: 14 open good-first issues, but a median first-response time of 10 days (more than 7). Mentioned in talk-104.
+- **ollama/ollama** — inference-runtime. 187293 stars, Go, MIT. Eligible, but below the priority bar: 3 open good-first issues (fewer than 5) with a median first-response time of 3 days. Mentioned in talk-102.
+- **ggml-org/llama.cpp** — inference-runtime. 135390 stars, C++, MIT. Eligible, but below the priority bar: 14 open good-first issues, but a median first-response time of 10 days (more than 7). Mentioned in talk-104.
 
 ## Excluded candidates
 
