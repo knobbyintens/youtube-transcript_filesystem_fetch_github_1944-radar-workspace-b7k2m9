@@ -9,8 +9,8 @@ Event: Nimbus AI Summit 2026
 
 ## Watchlist
 
-- ollama/ollama — eligible but below the priority bar: 3 open good-first issues (fewer than 5), median first response 3 days; 187286 stars, Go, MIT. Mentioned in talk-102.
-- ggml-org/llama.cpp — eligible but below the priority bar: 14 open good-first issues, but median first response 10 days (more than 7); 135380 stars, C++, MIT. Mentioned in talk-104.
+- ollama/ollama — eligible but below the priority bar: 3 open good-first issues (fewer than 5), median first response 3 days; 187283 stars, Go, MIT. Mentioned in talk-102.
+- ggml-org/llama.cpp — eligible but below the priority bar: 14 open good-first issues, but median first response 10 days (more than 7); 135378 stars, C++, MIT. Mentioned in talk-104.
 
 ## Excluded candidates
 
